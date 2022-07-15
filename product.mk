@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
     UpdaterOverlay
 
 # Apps
-PRODUCT_PACKAGES += \
+ PRODUCT_PACKAGES += \
     GrapheneCamera
 
 # ih8sn

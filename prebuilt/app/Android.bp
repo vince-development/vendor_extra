@@ -10,7 +10,6 @@ android_app_import {
     default_dev_cert: true,
     product_specific: true,
     overrides: ["Camera2"],
-    optional_uses_libs: ["androidx.camera.extensions.impl"],
     dex_preopt: {
         enabled: false,
     },
